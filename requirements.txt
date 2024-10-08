@@ -1,0 +1,6 @@
+#requirements
+opencv-python
+Pillow
+streamlit
+fer
+numpy
