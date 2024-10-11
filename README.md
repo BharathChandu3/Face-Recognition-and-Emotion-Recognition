@@ -18,26 +18,27 @@ This project is a **Face Recognition and Emotion Detection System** built using 
 ## Setup Instructions
 
 1. Clone this repository:
+    ```
  
     git clone https://github.com/BharathChandu3/Face-Recognition-and-Emotion-Recognition.git
     ```
     
-2. Navigate to the project directory:
+3. Navigate to the project directory:
    
     cd face-emotion-detection
     ```
 
-3. Install the required dependencies:
+4. Install the required dependencies:
     ```bash
     pip install -r requirements.txt
     ```
 
-4. Run the application:
+5. Run the application:
     ```bash
     streamlit run app.py
     ```
 
-5. Open your browser and go to `http://localhost:8501` to use the system.
+6. Open your browser and go to `http://localhost:8501` to use the system.
 
 ## Usage
 
