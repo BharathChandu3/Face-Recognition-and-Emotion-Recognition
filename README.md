@@ -18,12 +18,12 @@ This project is a **Face Recognition and Emotion Detection System** built using 
 ## Setup Instructions
 
 1. Clone this repository:
-    ```bash
-    git clone https://github.com/your-username/face-emotion-detection.git
+ 
+    git clone https://github.com/BharathChandu3/Face-Recognition-and-Emotion-Recognition.git
     ```
     
 2. Navigate to the project directory:
-    ```bash
+   
     cd face-emotion-detection
     ```
 
